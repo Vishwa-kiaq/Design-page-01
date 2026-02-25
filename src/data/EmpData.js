@@ -38,4 +38,14 @@ export const leads = [
         status: "New",
         note : "New lead from cold calling campaign",
     },
+
+        {
+        name:"Suntia Reddy",
+        company: "Reddy Catering",
+        phone : "+91 9876427915",
+        email: "suntia@reddycatering.com",
+        city:"Hyderabad",
+        status: "Converted",
+        note : "Payment completed. Onboarding in progress",
+    },
 ]

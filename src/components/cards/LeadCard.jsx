@@ -26,3 +26,4 @@ const LeadCard = ({lead}) => {
 }
 
 export default LeadCard;
+

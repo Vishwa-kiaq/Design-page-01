@@ -1,5 +1,5 @@
 export const stats = [
-    { title:"Total", value:15,color:"bg-gray-100" ,border:"border-gray-300"},
+    { title:"Total", value:15,color:"bg-white" ,border:"border-gray-300"},
     { title:"New", value:3,color:"bg-blue-100",border:"border-blue-300"},
     { title:"Contacted", value:1,color:"bg-cyan-100",border:"border-cyan-300"},
     { title:"Interested", value:4,color:"bg-green-100",border:"border-green-300"},

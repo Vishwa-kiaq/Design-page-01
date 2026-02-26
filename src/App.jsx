@@ -8,7 +8,7 @@ function App() {
   return (
     <>
     <Header/>
-    <div className="max-w-5xl mx-auto ">
+    <div className="max-w-2xl mx-auto ">
     
       <div className="flex gap-3 mb-6">
         {stats.map((stat, index)=>(
@@ -16,7 +16,7 @@ function App() {
         ))}
       </div>
 
-      <div className="space-y-4">
+      <div className="space-y-6">
         {leads.map((lead , index)=>(
           <LeadCard key={index} lead={lead} />
         ))}
